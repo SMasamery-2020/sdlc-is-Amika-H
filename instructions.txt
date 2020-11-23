@@ -1,4 +1,5 @@
 With you partner search the following questions and create a presentation.
+
 What is SDLC?
     SDLC is The Software Development Life Cycle: "A process that produces software with the highest quality and lowest cost in the shortest time possible."
 https://stackify.com/what-is-sdlc/ 
@@ -10,8 +11,16 @@ What are the stages of SDLC? explain
     -Software development: This is where we actually start making code and building it. Make sure you have an agreed way on code style and practices
     -Testing: In this stage we run the code and see if there's any bugs that we need to fix and see if the code actually does what we want it to.
     -Deployment: This is getting the final product out into the public. 
+https://stackify.com/what-is-sdlc/
 
 Define five SDLC moldels (methodology).
+    -Agile:"The Agile model helps teams identify and address small issues on projects before they evolve into more significant problems, and engage business stakeholders and get their feedback throughout the development process."
+    -Lean: "The Lean process is about working only on what must be worked on at the time, so there’s no room for multitasking. Project teams are also focused on finding opportunities to cut waste at every turn throughout the SDLC process, from dropping unnecessary meetings to reducing documentation."
+    -Waterfall: "finish one phase, then move on to the next. No going back. Each stage relies on information from the previous stage and has its own project plan."
+    -Iterative: "Instead of starting with fully known requirements, project teams implement a set of software requirements, then test, evaluate and pinpoint further requirements and repet." 
+    -Spiral: "It enables development teams to build a highly customized product, and incorporate user feedback early on in the project. Each iteration starts by looking ahead to potential risks, and figuring out how best to avoid or mitigate them."
+    -DevOps: “DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.”
+https://www.roberthalf.com/blog/salaries-and-skills/6-basic-sdlc-methodologies-which-one-is-best
 
 Take one of the SDLC models and explain the implementation process.
 
