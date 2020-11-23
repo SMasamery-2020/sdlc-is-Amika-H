@@ -1,9 +1,15 @@
 With you partner search the following questions and create a presentation.
 What is SDLC?
-    SDLC is The Software Development Life Cycle: "A methodology with clearly defined processes for creating high-quality software."
+    SDLC is The Software Development Life Cycle: "A process that produces software with the highest quality and lowest cost in the shortest time possible."
 https://stackify.com/what-is-sdlc/ 
 
 What are the stages of SDLC? explain 
+    -Requirement analysis: Take a step back and try to see what's going on. what's good with the system, what's bad with the system, and get other people's input about it.  
+    -Planning: Figuring out what you need to have to get this job done this includes materials, Cost, and time.
+    -Software design: "starts by turning the software specifications into a design plan called the Design Specification. All stakeholders then review this plan and offer feedback and suggestions."
+    -Software development: This is where we actually start making code and building it. Make sure you have an agreed way on code style and practices
+    -Testing: In this stage we run the code and see if there's any bugs that we need to fix and see if the code actually does what we want it to.
+    -Deployment: This is getting the final product out into the public. 
 
 Define five SDLC moldels (methodology).
 
