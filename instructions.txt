@@ -22,6 +22,5 @@ Define five SDLC moldels (methodology).
     -DevOps: “DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.”
 https://www.roberthalf.com/blog/salaries-and-skills/6-basic-sdlc-methodologies-which-one-is-best
 
-Take one of the SDLC models and explain the implementation process.
-
 Describe how to apply SDLC model in the version control App.
+You can apply this in the Version Control app by first taking a step back and actually seeing what you're trying to accomplish. Plan for what you're going to need in cost or time to spend on  the app. Figure out how you want your app to be displayed and how you want it to look and connect to each other.  Then after that you can start writing up the code to replicate what you decided to do in the layout. Then run your app and have people test it out to see if there's any bugs that need to be fixed or if it's getting across the point you wanted it to.  then you can release it to the public and then have them have at it. 
